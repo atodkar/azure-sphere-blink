@@ -1,0 +1,17 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "SphereBlink",
+  "ComponentId" : "ebe9588a-e38f-48c1-9f6e-dab8a5bd6dd9",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [ 8, 9, 10, 12 ],
+    "Uart": [],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}

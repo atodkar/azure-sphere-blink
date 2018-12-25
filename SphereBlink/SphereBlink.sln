@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SphereBlink", "SphereBlink\SphereBlink.vcxproj", "{30D1E68A-BD94-491D-8B9B-20655453F677}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IotHubCommunication", "IotHubCommunication\IotHubCommunication.vcxproj", "{2EB9FE7B-32EE-437A-9543-A3D0E107DD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D1E68A-BD94-491D-8B9B-20655453F677}.Debug|ARM.ActiveCfg = Debug|ARM
+		{30D1E68A-BD94-491D-8B9B-20655453F677}.Debug|ARM.Build.0 = Debug|ARM
+		{30D1E68A-BD94-491D-8B9B-20655453F677}.Release|ARM.ActiveCfg = Release|ARM
+		{30D1E68A-BD94-491D-8B9B-20655453F677}.Release|ARM.Build.0 = Release|ARM
+		{2EB9FE7B-32EE-437A-9543-A3D0E107DD6A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2EB9FE7B-32EE-437A-9543-A3D0E107DD6A}.Debug|ARM.Build.0 = Debug|ARM
+		{2EB9FE7B-32EE-437A-9543-A3D0E107DD6A}.Release|ARM.ActiveCfg = Release|ARM
+		{2EB9FE7B-32EE-437A-9543-A3D0E107DD6A}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95835D6D-1E17-462F-B153-98BDD689DF5D}
+	EndGlobalSection
+EndGlobal

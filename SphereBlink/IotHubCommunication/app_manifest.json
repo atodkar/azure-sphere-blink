@@ -1,0 +1,18 @@
+{
+  "SchemaVersion": 1,
+  "Name": "IotHubCommunication",
+  "ComponentId": "a53eca73-cc53-4484-abc5-5544f332dbe5",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [ "global.azure-devices-provisioning.net", "iotdcus-sphere.azure-devices.net" ],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [0, 1, 8, 9, 10, 15, 16, 17, 18, 19, 20, 12, 13 ],
+    "Uart": [],
+    "WifiConfig": true,
+    "NetworkConfig": false,
+    "SystemTime": false,
+    "DeviceAuthentication": "5f40b8f8-28df-4fe4-97d5-abe214a19149"
+  }
+}
